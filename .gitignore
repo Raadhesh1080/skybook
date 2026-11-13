@@ -1,0 +1,13 @@
+# Build output (recreate with: mingw32-make)
+*.o
+*.exe
+
+# Databases created while running the program or tests
+airline/
+skybench/
+skytest*/
+*.dat
+*.ndx
+*.ndx.tmp
+*.info
+*.csv
